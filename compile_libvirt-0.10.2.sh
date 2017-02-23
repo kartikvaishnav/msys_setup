@@ -3,7 +3,7 @@
 . utilslib.sh
 
 basedir=/src/libvirt
-baseurl=http://libvirt.org/sources
+baseurl=http://libvirt.org/sources/old
 version=0.10.2
 revision=0
 tarball=libvirt-${version}.tar.gz
